@@ -1,0 +1,154 @@
+{
+  "Matches": [
+    {
+      "id": 1,
+      "Teams": [
+        {
+          "id": 1,
+          "name": "IND",
+          "score": 254
+        },
+        {
+          "id": 2,
+          "name": "AUS",
+          "score": 253
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Teams": [
+        {
+          "id": 1,
+          "name": "IND",
+          "score": 330
+        },
+        {
+          "id": 3,
+          "name": "ENG",
+          "score": 331
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Teams": [
+        {
+          "id": 1,
+          "name": "IND",
+          "score": 220
+        },
+        {
+          "id": 4,
+          "name": "NZ",
+          "score": 220
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "Teams": [
+        {
+          "id": 1,
+          "name": "IND",
+          "score": 264
+        },
+        {
+          "id": 5,
+          "name": "PAK",
+          "score": 189
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "Teams": [
+        {
+          "id": 2,
+          "name": "AUS",
+          "score": 240
+        },
+        {
+          "id": 3,
+          "name": "ENG",
+          "score": 200
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "Teams": [
+        {
+          "id": 2,
+          "name": "AUS",
+          "score": 330
+        },
+        {
+          "id": 4,
+          "name": "NZ",
+          "score": 331
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "Teams": [
+        {
+          "id": 2,
+          "name": "AUS",
+          "score": 320
+        },
+        {
+          "id": 5,
+          "name": "PAK",
+          "score": 220
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "Teams": [
+        {
+          "id": 3,
+          "name": "ENG",
+          "score": 320
+        },
+        {
+          "id": 4,
+          "name": "NZ",
+          "score": 300
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "Teams": [
+        {
+          "id": 3,
+          "name": "ENG",
+          "score": 280
+        },
+        {
+          "id": 5,
+          "name": "PAK",
+          "score": 300
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "Teams": [
+        {
+          "id": 4,
+          "name": "NZ",
+          "score": 180
+        },
+        {
+          "id": 5,
+          "name": "PAK",
+          "score": 180
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Teams": [
+    {
+      "id": 1,
+      "name": "IND",
+      "image": "https://www.countryflags.io/IN/shiny/64.png"
+    },
+    {
+      "id": 2,
+      "name": "AUS",
+      "image": "https://www.countryflags.io/AU/shiny/64.png"
+    },
+    {
+      "id": 3,
+      "name": "ENG",
+      "image": "https://www.countryflags.io/GB/shiny/64.png"
+    },
+    {
+      "id": 4,
+      "name": "NZ",
+      "image": "https://www.countryflags.io/NZ/shiny/64.png"
+    },
+    {
+      "id": 5,
+      "name": "PAK",
+      "image": "https://www.countryflags.io/PK/shiny/64.png"
+    }
+  ]
+}

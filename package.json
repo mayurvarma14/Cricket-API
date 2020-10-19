@@ -1,0 +1,34 @@
+{
+  "name": "cricket-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "develop": "nodemon ./bin/www --ext *.yaml,*.js,*.json"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "~4.16.1",
+    "helmet": "^4.1.1",
+    "http-status": "^1.4.2",
+    "mongoose": "^5.10.9",
+    "morgan": "~1.9.1",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.5",
+    "prettier": "^2.1.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

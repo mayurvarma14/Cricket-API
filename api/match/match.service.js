@@ -21,14 +21,26 @@ module.exports = {
         current = team2;
         opposite = team1;
       }
-      let color;
-      if (current.score === opposite.score) color = 'white';
-      else if (current.score > opposite.score) color = 'green';
-      else {
-        color = 'Red';
+      const colors = {
+        won: 'green',
+        lost: 'red',
+        draw: 'white',
+      };
+      let result;
+      if (current.score === opposite.score) {
+        result = 'draw';
+      } else if (current.score > opposite.score) {
+        result = 'won';
+      } else {
+        result = 'lost';
       }
 
-      return { color, current, opposite };
+      return {
+        color: colors[result],
+        current,
+        opposite,
+        result,
+      };
     });
   },
 };

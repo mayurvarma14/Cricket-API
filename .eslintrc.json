@@ -18,6 +18,7 @@
         "prettier/prettier": "error",
         "no-console": "off",
         "no-use-before-define":"off",
-        "comma-dangle":"off"
+        "comma-dangle":"off",
+        "no-underscore-dangle":"off"
     }
 }

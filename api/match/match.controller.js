@@ -9,4 +9,13 @@ module.exports = {
       return next(error);
     }
   },
+  async wonOrLost(req, res, next) {
+    try {
+      const { id } = req.params;
+      const matches = await service.wonOrLost(id);
+      return res.json(matches);
+    } catch (error) {
+      return next(error);
+    }
+  },
 };
